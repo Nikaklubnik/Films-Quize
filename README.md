@@ -1,6 +1,6 @@
 # Films-Quize
 
-This project contains a Python script and game images. All images are linked directly within the code.
+This project contains a Python script and game images. All images are linked directly within the code. I used a Python library PyQt6 to create this game.
 
 
 # Install and Run

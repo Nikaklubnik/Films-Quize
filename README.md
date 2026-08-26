@@ -4,7 +4,7 @@ This project contains a Python script and game images. All images are linked dir
 
 
 # Install and Run
-1. Ctrl + '`' or Ctrl + 'ё'
+1. Ctrl + ' ` ' or Ctrl + ' ё '
 2. In Terminal write: C:\Users\huawe\AppData\Local\Programs\Python\Python313\python.exe -m pip install PyQt6 --user
 3. Then write: C:\Users\huawe\AppData\Local\Programs\Python\Python313\python.exe igame.py
 4. Ready! Let`s play!
